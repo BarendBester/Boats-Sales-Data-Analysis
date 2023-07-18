@@ -15,7 +15,7 @@ This is advanced analysis of data using Numpy, Pandas, Matplot, to identify whic
 
 ## Skills used
 
-* Time series analysis
+* Time-series analysis
 * Big Data
 * Predictive analysis
 * Linear modelling
