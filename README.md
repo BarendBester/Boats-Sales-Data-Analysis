@@ -1,5 +1,5 @@
 
-# Instacard online shopping
+# Marketing methods for Boats!
 Repository for analysis of data with Python coding.
 
 ## This analysis finds answers to marketing questions for boats around Europe.
