@@ -1,8 +1,8 @@
 
 # Marketing methods for Boats!
 Repository for analysis of data with Python coding.
+This analysis finds answers to marketing questions for boats around Europe.
 
-## This analysis finds answers to marketing questions for boats around Europe.
 ## Goal
 This is descriptive analysis of data using Numpy, Pandas, and Matplot to identify which boat charactaristics are popular.
 
