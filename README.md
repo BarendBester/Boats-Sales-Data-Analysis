@@ -21,6 +21,8 @@ This is advanced analysis of data using Numpy, Pandas, Matplot, to identify whic
 * Linear modelling
 * Clustering
 
+https://public.tableau.com/app/profile/mike.bester/viz/Boat_Marketing/Story1?publish=yes
+
 ![grafik](https://github.com/BarendBester/Marketing-methods-for-Boats-data-with-Python/assets/121133689/2b89676b-3fe1-4b5d-b7fd-3ce7d3660cd9)
 Note this is a project created via Careerfoundry via open source data.
 Data source: https://www.kaggle.com/datasets/karthikbhandary2/boat-sales
